@@ -2,19 +2,19 @@
 
   "use strict";
 
-  // /**
-  //  * Tests for the following functions. See README.md for more detail.
-  //  * isTrue
-  //  * isFalse
-  //  * not
-  //  * addOne
-  //  * isEven
-  //  * isIdentical
-  //  * isEqual
-  //  * or
-  //  * and
-  //  * concat
-  //  */
+   /**
+    * Tests for the following functions. See README.md for more detail.
+    * isTrue
+    * isFalse
+    * not
+    * addOne
+    * isEven
+    * isIdentical
+    * isEqual
+    * or
+    * and
+    * concat
+   */
    
 
   const randomBoolean = Boolean(Math.round(Math.random()))
